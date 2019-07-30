@@ -74,7 +74,32 @@ body,
 }
 
 #jumbotext{
-  background-color: rgba(12, 136, 39, 0.205);
+  background-color: rgba(136, 12, 88, 0.205);
  
-  }
+}
+
+.rotate90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+#div20
+{
+-webkit-transform:rotate(90deg); /* Chrome, Safari, Opera */
+transform:rotate(90deg); /* Standard syntax */
+}
+
+.panel-primary img {
+  /*margin-left:60px;
+  vertical-align: middle;
+  box-align: center;*/
+  margin-left:55px;
+  vertical-align: middle;
+  
+  align-items: center;
+  
+}
 
