@@ -130,7 +130,6 @@ transform:rotate(90deg); /* Standard syntax */
   color: #000;
   text-decoration: none;
 }
-
 /* Styling the header, giving it a height, a background color, and some top padding */
 .header {
   height: 150px;
