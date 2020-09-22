@@ -153,3 +153,5 @@ transform:rotate(90deg); /* Standard syntax */
   margin-right: 100px;
   margin-left: 100px;
 }
+/* Leaflet map size */
+#mapid { height: 180px; }
